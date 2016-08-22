@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppAllCode", "WpfAppAllCode\WpfAppAllCode.csproj", "{21221A1D-D198-4800-ACA3-60979B2D9003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamlPad", "MyXamlPad\MyXamlPad.csproj", "{4E2956C4-7E97-4F97-9BC1-E0887D2108EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWordPad", "MyWordPad\MyWordPad.csproj", "{9C078299-6D19-4477-93C9-158857384E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlsAndAPIs", "WpfControlsAndAPIs\WpfControlsAndAPIs.csproj", "{704C6AFE-F7E4-4D36-AC4B-17140A6864A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderingWithShapesAndEtc", "RenderingWithShapes\RenderingWithShapesAndEtc.csproj", "{4FBEC8BF-97C4-4048-A335-570E016055D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsAccounting", "StudentsAccounting\StudentsAccounting.csproj", "{C511EAC9-D26A-4256-B853-68A1491FCD05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{DE9AFC79-87BB-44DB-8C3C-027FF05D457E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21221A1D-D198-4800-ACA3-60979B2D9003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21221A1D-D198-4800-ACA3-60979B2D9003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21221A1D-D198-4800-ACA3-60979B2D9003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21221A1D-D198-4800-ACA3-60979B2D9003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2956C4-7E97-4F97-9BC1-E0887D2108EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2956C4-7E97-4F97-9BC1-E0887D2108EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2956C4-7E97-4F97-9BC1-E0887D2108EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2956C4-7E97-4F97-9BC1-E0887D2108EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C078299-6D19-4477-93C9-158857384E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C078299-6D19-4477-93C9-158857384E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C078299-6D19-4477-93C9-158857384E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C078299-6D19-4477-93C9-158857384E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704C6AFE-F7E4-4D36-AC4B-17140A6864A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704C6AFE-F7E4-4D36-AC4B-17140A6864A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704C6AFE-F7E4-4D36-AC4B-17140A6864A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704C6AFE-F7E4-4D36-AC4B-17140A6864A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBEC8BF-97C4-4048-A335-570E016055D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBEC8BF-97C4-4048-A335-570E016055D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBEC8BF-97C4-4048-A335-570E016055D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBEC8BF-97C4-4048-A335-570E016055D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C511EAC9-D26A-4256-B853-68A1491FCD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C511EAC9-D26A-4256-B853-68A1491FCD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C511EAC9-D26A-4256-B853-68A1491FCD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C511EAC9-D26A-4256-B853-68A1491FCD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9AFC79-87BB-44DB-8C3C-027FF05D457E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9AFC79-87BB-44DB-8C3C-027FF05D457E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9AFC79-87BB-44DB-8C3C-027FF05D457E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9AFC79-87BB-44DB-8C3C-027FF05D457E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿<Window x:Class="RenderingWithShapes.RenderingWithVisual"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:custom="clr-namespace:RenderingWithShapes" 
+        Title="RenderingWithVisual" Height="350" Width="525" Loaded="Window_Loaded">
+    <StackPanel Background="AliceBlue" x:Name="myStackPanel">
+        <Image x:Name="myImage" Height="80" />
+        <custom:CustomVisualFrameworkElement/>
+    </StackPanel>
+</Window>

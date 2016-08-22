@@ -1,0 +1,18 @@
+﻿<Window x:Class="MyXamlPad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="My Custom XAML Editor" Height="338" Width="1041"
+        Loaded="Window_Loaded" Closed="Window_Closed"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel LastChildFill="True">
+        <DockPanel DockPanel.Dock="Top">
+            <Button x:Name="btnMyWindow" DockPanel.Dock="Left" Width="40" Height="40" Click="btnMyWindow_Click"></Button>
+            <Button Name="btnViewXaml" Height="40"
+                Content="View XAML" Click="btnViewXaml_Click" Margin="446,0,447,0" />
+        </DockPanel>
+        <TextBox AcceptsReturn="True" Name="txtXamlData" FontSize="14" Background="Black"
+                 Foreground="Yellow" BorderBrush="Blue" VerticalScrollBarVisibility="Auto"
+                 AcceptsTab="True" />
+    </DockPanel>
+</Window>
