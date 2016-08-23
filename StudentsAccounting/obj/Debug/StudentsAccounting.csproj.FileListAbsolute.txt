@@ -1,0 +1,17 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\bin\Debug\StudentsAccounting.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\bin\Debug\StudentsAccounting.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\bin\Debug\StudentsAccounting.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsAccounting_MarkupCompile.lref
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsInfoWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\StudentsInfoWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs

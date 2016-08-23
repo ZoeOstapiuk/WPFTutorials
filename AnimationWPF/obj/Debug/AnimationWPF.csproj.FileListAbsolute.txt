@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\bin\Debug\AnimationWPF.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\bin\Debug\AnimationWPF.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\bin\Debug\AnimationWPF.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\AnimationWPF_MarkupCompile.lref
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\AnimationWPF\obj\Debug\App.baml

@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\bin\Release\StudentsAccounting.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\bin\Release\StudentsAccounting.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\bin\Release\StudentsAccounting.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsInfoWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting_MarkupCompile.lref
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsInfoWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\StudentsAccounting\obj\Release\StudentsAccounting.pdb

@@ -1,0 +1,10 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\bin\Debug\MyBrushesLibrary.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\bin\Debug\MyBrushesLibrary.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary_MarkupCompile.lref
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushes.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\MyBrushesLibrary\obj\Debug\MyBrushesLibrary.pdb

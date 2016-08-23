@@ -1,0 +1,14 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Debug\InteractiveTeddyBear.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Debug\InteractiveTeddyBear.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Debug\InteractiveTeddyBear.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\bear_paper.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Debug\InteractiveTeddyBear.pdb
