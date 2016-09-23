@@ -85,14 +85,20 @@ namespace InteractiveTeddyBear
             Path pawThing = sender as Path;
 
             LinearGradientBrush brush = pawThing.Fill as LinearGradientBrush;
-            brush.GradientStops[0] = new GradientStop(colorPicker.SelectedColor.Value, 0);
+            brush.GradientStops[0] = new GradientStop(colorPicker.SelectedColor.Value, 0.3);
 
             var darkerPart = colorPicker.SelectedColor.Value;
             darkerPart.R = changeChannel(darkerPart.R - 100);
             darkerPart.G = changeChannel(darkerPart.G - 100);
             darkerPart.B = changeChannel(darkerPart.B - 100);
 
+            var lighterPart = colorPicker.SelectedColor.Value;
+            lighterPart.R = changeChannel(lighterPart.R + 40);
+            lighterPart.G = changeChannel(lighterPart.G + 40);
+            lighterPart.B = changeChannel(lighterPart.B + 40);
+
             brush.GradientStops[1] = new GradientStop(darkerPart, 1);
+            brush.GradientStops[2] = new GradientStop(lighterPart, 0);
         }
 
         private void TextBlock_MouseEnter(object sender, MouseEventArgs e)

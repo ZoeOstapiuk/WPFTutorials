@@ -1,0 +1,17 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\bin\Release\WpfControlsAndAPIs.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\bin\Release\WpfControlsAndAPIs.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\bin\Release\WpfControlsAndAPIs.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\ShowNumberControl.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs_MarkupCompile.lref
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\ShowNumberControl.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Release\WpfControlsAndAPIs.pdb

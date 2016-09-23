@@ -1,7 +1,6 @@
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.exe.config
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.exe
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\bin\Debug\WpfControlsAndAPIs.pdb
-C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csprojResolveAssemblyReference.cache
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\MainWindow.baml
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\MainWindow.g.cs
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\App.g.cs
@@ -11,3 +10,6 @@ C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndA
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csproj.GenerateResource.Cache
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.exe
 C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs_MarkupCompile.lref
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\WpfControlsAndAPIs.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\WpfControlsAndAPIs\obj\Debug\App.baml

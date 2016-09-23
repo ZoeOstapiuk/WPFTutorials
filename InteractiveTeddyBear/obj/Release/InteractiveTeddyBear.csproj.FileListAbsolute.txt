@@ -1,0 +1,14 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Release\InteractiveTeddyBear.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Release\InteractiveTeddyBear.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Release\InteractiveTeddyBear.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\bear_paper.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\InteractiveTeddyBear_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\InteractiveTeddyBear.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\InteractiveTeddyBear.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\InteractiveTeddyBear.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\InteractiveTeddyBear.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\InteractiveTeddyBear\obj\Release\InteractiveTeddyBear.pdb

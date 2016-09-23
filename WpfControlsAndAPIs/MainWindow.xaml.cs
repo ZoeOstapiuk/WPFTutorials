@@ -211,5 +211,10 @@ namespace WpfControlsAndAPIs
         {
             this.myInkCanvas.Strokes.Clear();
         }
+
+        private void myButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

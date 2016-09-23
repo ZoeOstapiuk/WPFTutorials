@@ -4,6 +4,26 @@
              xmlns:local="clr-namespace:WpfControlsAndAPIs"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
+        <ControlTemplate x:Key="RoundButtonTempate" TargetType="{x:Type Button}">
+            <Grid x:Name="controlLayout" RenderTransformOrigin="0.5, 0.5">
+                <Ellipse x:Name="buttonSurface" Fill="{TemplateBinding Background}"/>
+                <Label x:Name="buttonCaption" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" Content="{TemplateBinding Content}"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="buttonSurface" Property="Fill" Value="Blue"/>
+                    <Setter TargetName="buttonCaption" Property="Foreground" Value="White"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="controlLayout" Property="RenderTransform">
+                        <Setter.Value>
+                            <ScaleTransform ScaleX="0.8" ScaleY="0.8"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
     </Application.Resources>
 </Application>

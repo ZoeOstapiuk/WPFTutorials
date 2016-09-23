@@ -2,6 +2,7 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:a="clr-namespace:System.Windows.Annotations;assembly=PresentationFramework"
+        xmlns:myCtrls="clr-namespace:WpfControlsAndAPIs"
         x:Class="WpfControlsAndAPIs.MainWindow"
         Title="API And Controls" Height="350" Width="623.667">
     <Window.CommandBindings>
@@ -46,7 +47,7 @@
             <TabItem x:Name="tabDocuments" Header="Documents" VerticalAlignment="Bottom" Height="20">
                 <StackPanel Background="#FFE5E5E5">
                     <ToolBar>
-                        <Button x:Name="btnSaveDoc" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="75" Content="Save Doc"/> 
+                        <Button x:Name="btnSaveDoc" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="75" Content="Save Doc"/>
                         <Button x:Name="btnLoadDoc" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="75" Content="Load Doc"/>
                         <Button BorderBrush="Green" Content="Add Sticky Note" Command="a:AnnotationService.CreateTextStickyNoteCommand"/>
                         <Button BorderBrush="Green" Content="Delete Sticky Note" Command="a:AnnotationService.DeleteStickyNotesCommand"/>
@@ -76,6 +77,11 @@
             <TabItem x:Name="tabDataGrid" Header="Data Grid">
                 <StackPanel>
                     <DataGrid x:Name="gridInventory" Height="288"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem x:Name="tabButton" Header="Button Template">
+                <StackPanel>
+                    <Button x:Name="myButton" Width="100" Height="100" Click="myButton_Click" Template="{DynamicResource RoundButtonTempate}"/>
                 </StackPanel>
             </TabItem>
         </TabControl>

@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\bin\Debug\TreesAndTemplatesApp.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\bin\Debug\TreesAndTemplatesApp.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\bin\Debug\TreesAndTemplatesApp.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp.g.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\WPFTutorials\TreesAndTemplatesApp\obj\Debug\TreesAndTemplatesApp.pdb

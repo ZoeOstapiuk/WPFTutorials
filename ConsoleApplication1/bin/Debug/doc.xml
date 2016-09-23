@@ -12,7 +12,7 @@
     <Exam6>6</Exam6>
   </Student>
   <Student>
-    <FirstName>Zoe</FirstName>
+    <FirstName>Зоя</FirstName>
     <LastName>Kovalski</LastName>
     <BirthDate>1998-03-30T00:00:00</BirthDate>
     <Exam1>5</Exam1>
@@ -23,7 +23,7 @@
     <Exam6>5</Exam6>
   </Student>
   <Student>
-    <FirstName>Zoe</FirstName>
+    <FirstName>Ірина</FirstName>
     <LastName>Ostapyuk</LastName>
     <BirthDate>1998-03-30T00:00:00</BirthDate>
     <Exam1>5</Exam1>

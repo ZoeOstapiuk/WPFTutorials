@@ -2,7 +2,7 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
-        Title="MainWindow" Height="651.103" Width="700">
+        Title="MainWindow" Height="651.103" Width="700" Icon="bear_icon.ico">
     <Window.Resources>
         <Style TargetType="Path">
             <Setter Property="Stroke" Value="Black"/>
@@ -19,7 +19,7 @@
             <ColumnDefinition Width="110"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Grid.Column="1" Width="510.833" Height="609.001" Clip="F1 M 0,0L 510.833,0L 510.833,609.001L 0,609.001L 0,0" Margin="0,0,-1,1">
+        <Canvas Cursor="Pen" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Grid.Column="1" Width="510.833" Height="609.001" Clip="F1 M 0,0L 510.833,0L 510.833,609.001L 0,609.001L 0,0" Margin="0,0,-1,1">
             <Canvas x:Name="bear" Width="511" Height="600" Canvas.Left="0" Canvas.Top="0">
                 <Viewbox Width="526.064" Height="625.176" Canvas.Left="-8.23537" Canvas.Top="-8.10295">
                     <Canvas Width="526.064" Height="625.176">
@@ -263,6 +263,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -276,6 +277,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -291,6 +293,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -305,6 +308,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -318,6 +322,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -347,6 +352,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -360,6 +366,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -375,6 +382,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -388,6 +396,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -403,6 +412,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -416,6 +426,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -431,6 +442,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -444,6 +456,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -459,6 +472,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -472,6 +486,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -487,6 +502,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -500,6 +516,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
@@ -515,6 +532,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -529,6 +547,7 @@
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
                                 </Path>
@@ -542,6 +561,7 @@
                                                 </TransformGroup>
                                             </LinearGradientBrush.RelativeTransform>
                                             <GradientStop Color="#FFFFFF" Offset="0.00423729"/>
+                                            <GradientStop Color="#FFFFFF" Offset="1"/>
                                             <GradientStop Color="#FFFFFF" Offset="1"/>
                                         </LinearGradientBrush>
                                     </Path.Fill>
